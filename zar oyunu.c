@@ -3,6 +3,7 @@
 #include<time.h>
 
 // pushed to gıtHub
+// 2 
 
 enum status {CONTINUE, WON, LOST};
 
