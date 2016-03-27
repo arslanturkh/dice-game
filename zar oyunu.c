@@ -2,6 +2,8 @@
 #include<stdlib.h>
 #include<time.h>
 
+// pushed to gıtHub
+
 enum status {CONTINUE, WON, LOST};
 
 int rolldice (void);
